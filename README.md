@@ -3,4 +3,5 @@ Leetcode Solutions
 
 | **#** | **Title** | **Solution** | **Difficulty** |
 | --- | --- | --- | --- |
-| 141 | Linked List Cyclte | [Solution](LinkedListCycle.java) | Easy |
+| 141 | Linked List Cycle | [Solution](LinkedListCycle.java) | Easy |
+| 206 | Reverse Linked List | [Solution](ReverseLinkedList.java) | Easy |
