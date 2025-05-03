@@ -3,4 +3,4 @@ Leetcode Solutions
 
 | **#** | **Title** | **Solution** | **Difficulty** |
 | --- | --- | --- | --- |
-| 1 | Two Sum | [Solution](TwoSum.java) | Easy |
+| 141 | Linked List Cyclte | [Solution](LinkedListCycle.java) | Easy |
