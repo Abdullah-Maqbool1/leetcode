@@ -25,7 +25,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | --- | ---------------------- | ------------- | ---------- |
 | 141 | Linked List Cycle      | [Click me](#) | 🟢 Easy    |
 | 206 | Reverse Linked List    | [Click me](#) | 🟢 Easy    |
-| 69  | Sqrt(x)                | [Solution](#) | 🟢 Easy    |
+| 69  | Sqrt(x)                | [Click me](#) | 🟢 Easy    |
 | 41  | Find Missing Positive  | [Click me](#) | 🔴 Hard    |
 | 234 | Palindrome Linked List | [Click me](#) | 🔴 Hard    |
 
