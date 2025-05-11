@@ -26,9 +26,9 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 141 | Linked List Cycle      | [Click me](LinkedListCycle.java) | 🟢 Easy    |
 | 206 | Reverse Linked List    | [Click me](ReverseLinkedList.java) | 🟢 Easy    |
 | 69  | Sqrt(x)                | [Click me](Sqrt(x).java) | 🟢 Easy    |
-| 41  | Find Missing Positive  | [Click me](FindMissingPositive) | 🔴 Hard    |
-| 234 | Palindrome Linked List | [Click me](PalindromeLinkedList) | 🟢 Easy    |
-| 232 | Implement Queue Using Stack | [Click me](ImplementQueueUsingStack) | 🟢 Easy    |
+| 41  | Find Missing Positive  | [Click me](FindMissingPositive.java) | 🔴 Hard    |
+| 234 | Palindrome Linked List | [Click me](PalindromeLinkedList.java) | 🟢 Easy    |
+| 232 | Implement Queue Using Stack | [Click me](ImplementQueueUsingStack.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
