@@ -27,8 +27,8 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 206 | Reverse Linked List    | [Click me](#) | 🟢 Easy    |
 | 69  | Sqrt(x)                | [Click me](#) | 🟢 Easy    |
 | 41  | Find Missing Positive  | [Click me](#) | 🔴 Hard    |
-| 234 | Palindrome Linked List | [Click me](#) | 🔴 Hard    |
-
+| 234 | Palindrome Linked List | [Click me](#) | 🟢 Easy    |
+| 232 | Implement Queue Using Stack | [Click me](#) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
