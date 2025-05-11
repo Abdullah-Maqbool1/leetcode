@@ -23,12 +23,12 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 
 | #   | Title                  | Solution      | Difficulty |
 | --- | ---------------------- | ------------- | ---------- |
-| 141 | Linked List Cycle      | [Click me](#) | 🟢 Easy    |
-| 206 | Reverse Linked List    | [Click me](#) | 🟢 Easy    |
-| 69  | Sqrt(x)                | [Click me](#) | 🟢 Easy    |
-| 41  | Find Missing Positive  | [Click me](#) | 🔴 Hard    |
-| 234 | Palindrome Linked List | [Click me](#) | 🟢 Easy    |
-| 232 | Implement Queue Using Stack | [Click me](#) | 🟢 Easy    |
+| 141 | Linked List Cycle      | [Click me](LinkedListCycle.java) | 🟢 Easy    |
+| 206 | Reverse Linked List    | [Click me](ReverseLinkedList.java) | 🟢 Easy    |
+| 69  | Sqrt(x)                | [Click me](Sqrt(x) | 🟢 Easy    |
+| 41  | Find Missing Positive  | [Click me](FindMissingPositive) | 🔴 Hard    |
+| 234 | Palindrome Linked List | [Click me](PalindromeLinkedList) | 🟢 Easy    |
+| 232 | Implement Queue Using Stack | [Click me](ImplementQueueUsingStack) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
