@@ -45,6 +45,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 * [Leetcode](https://leetcode.com/)
 * [Data Structures and Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/)
 * [Java Documentation](https://docs.oracle.com/en/java/)
+* [W3Schools](https://www.w3schools.com/)
 
 ---
 
