@@ -29,6 +29,8 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 41  | Find Missing Positive  | [Click me](FindMissingPositive.java) | 🔴 Hard    |
 | 234 | Palindrome Linked List | [Click me](PalindromeLinkedList.java) | 🟢 Easy    |
 | 232 | Implement Queue Using Stack | [Click me](ImplementQueueUsingStack.java) | 🟢 Easy    |
+| 32 | Valid Parentheses | [Click me](validParenthesis.java) | 🟢 Easy    |
+| 20 | Longest Valid Parentheses | [Click me](longestValidParentheses.java) | 🔴 Hard    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
