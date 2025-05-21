@@ -32,7 +32,8 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 32 | Valid Parentheses | [Click me](validParenthesis.java) | 🟢 Easy    |
 | 20 | Longest Valid Parentheses | [Click me](longestValidParentheses.java) | 🔴 Hard    |
 | 58 | Length of Last Word      | [Click me](LengthOfLastWord.java) | 🟢 Easy    |
-| 709 | ToLowerCase    | [Click me](ToLowerCase.java) | 🟢 Easy    |
+| 709 | To Lower Case    | [Click me](ToLowerCase.java) | 🟢 Easy    |
+| 35 | Search Insert Position    | [Click me](SearchInsertPosition.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
