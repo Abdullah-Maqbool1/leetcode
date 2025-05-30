@@ -23,6 +23,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 
 | #   | Title                  | Solution      | Difficulty |
 | --- | ---------------------- | ------------- | ---------- |
+| 1  | Rwo Sum                | [Click me](TwoSum.java) | 🟢 Easy    |
 | 141 | Linked List Cycle      | [Click me](LinkedListCycle.java) | 🟢 Easy    |
 | 206 | Reverse Linked List    | [Click me](ReverseLinkedList.java) | 🟢 Easy    |
 | 69  | Sqrt(x)                | [Click me](Sqrt(x).java) | 🟢 Easy    |
