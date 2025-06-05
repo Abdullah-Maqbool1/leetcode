@@ -35,6 +35,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 58 | Length of Last Word      | [Click me](LengthOfLastWord.java) | 🟢 Easy    |
 | 709 | To Lower Case    | [Click me](ToLowerCase.java) | 🟢 Easy    |
 | 35 | Search Insert Position    | [Click me](SearchInsertPosition.java) | 🟢 Easy    |
+| 700 | Search in a Binary Search Tree    | [Click me](SearchInBinarySearchTree.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
