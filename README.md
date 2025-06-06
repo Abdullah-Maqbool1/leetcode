@@ -36,6 +36,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 709 | To Lower Case    | [Click me](ToLowerCase.java) | 🟢 Easy    |
 | 35 | Search Insert Position    | [Click me](SearchInsertPosition.java) | 🟢 Easy    |
 | 700 | Search in a Binary Search Tree    | [Click me](SearchInBinarySearchTree.java) | 🟢 Easy    |
+| 91 |  Binary Tree Inorder Traversal    | [Click me](BST_InOrderTraversal.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
