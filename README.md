@@ -39,6 +39,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 94 |  Binary Tree Inorder Traversal    | [Click me](BST_InOrderTraversal.java) | 🟢 Easy    |
 | 938 |  Range Sum of BST    | [Click me](rangeSumBST.java) | 🟢 Easy    |
 | 4 | Median of Two Sorted Arrays | [Click me](medianTwoSortedArrays.java) | 🔴 Hard    |
+| 26 |  Remove Duplicates from Sorted Array    | [Click me](removeDublicatesSortedArray.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
