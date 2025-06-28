@@ -40,6 +40,7 @@ Welcome to my curated list of Leetcode solutions! This repository contains well-
 | 938 |  Range Sum of BST    | [Click me](rangeSumBST.java) | 🟢 Easy    |
 | 4 | Median of Two Sorted Arrays | [Click me](medianTwoSortedArrays.java) | 🔴 Hard    |
 | 26 |  Remove Duplicates from Sorted Array    | [Click me](removeDublicatesSortedArray.java) | 🟢 Easy    |
+| 1047 |  Remove All Adjacent Duplicates In String    | [Click me](removeAdjacentDublicates.java) | 🟢 Easy    |
 > **Note:** Click on the solution links to navigate to the respective solution files.
 
 ---
